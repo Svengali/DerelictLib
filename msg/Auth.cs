@@ -1,7 +1,11 @@
-﻿namespace DerelictLib
-{
-	public class Class1
-	{
+﻿namespace msg;
 
-	}
+
+
+
+
+
+public class Class1
+{
+
 }
